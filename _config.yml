@@ -1,0 +1,28 @@
+name: BioSymbolics
+favicon: null
+layout_spectrum: 0.7454881868325174
+typography_spectrum: 0.4517942117527127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.624494941206649
+  lightness: 0.27096259454265237
+  saturation: 0.24927697028033435
+  rhythmicContrast: 0.9420131137594581
+purpose: []
